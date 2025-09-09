@@ -195,17 +195,18 @@ export default function Home() {
           </div>
 
           <div className="mb-8">
-            <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-b from-white via-gray-200 to-gray-500 bg-clip-text text-transparent">
-              Build Next-Gen
+            <h2 className="text-6xl md:text-5xl font-bold mb-6 bg-gradient-to-b from-white via-gray-200 to-gray-500 bg-clip-text text-transparent">
+              การเผยแพร่ซอฟต์แวร์บนระบบคลาวด์ 
               <br />
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-                Digital Solutions
+              Software Deployment on Cloud
               </span>
-            </h1>
+            </h2>
             <p className="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
-              We architect and develop cutting-edge web applications, websites,
-              and mobile apps using the latest technologies and AI-powered
-              solutions.
+            Automated Software Deployment on Cloud with GitHub Actions
+            </p>
+            <p className="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
+            (CI/CD)
             </p>
           </div>
 
